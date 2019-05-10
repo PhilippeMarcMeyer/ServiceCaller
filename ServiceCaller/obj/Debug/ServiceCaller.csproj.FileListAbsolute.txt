@@ -1,0 +1,7 @@
+C:\Users\Philippe\source\repos\ServiceCaller\ServiceCaller\bin\Debug\ServiceCaller.exe.config
+C:\Users\Philippe\source\repos\ServiceCaller\ServiceCaller\bin\Debug\ServiceCaller.exe
+C:\Users\Philippe\source\repos\ServiceCaller\ServiceCaller\bin\Debug\ServiceCaller.pdb
+C:\Users\Philippe\source\repos\ServiceCaller\ServiceCaller\obj\Debug\ServiceCaller.csprojAssemblyReference.cache
+C:\Users\Philippe\source\repos\ServiceCaller\ServiceCaller\obj\Debug\ServiceCaller.csproj.CoreCompileInputs.cache
+C:\Users\Philippe\source\repos\ServiceCaller\ServiceCaller\obj\Debug\ServiceCaller.exe
+C:\Users\Philippe\source\repos\ServiceCaller\ServiceCaller\obj\Debug\ServiceCaller.pdb
